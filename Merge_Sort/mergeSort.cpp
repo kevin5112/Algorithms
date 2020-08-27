@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+
 
 void swap(int &int1, int &int2)
 {
